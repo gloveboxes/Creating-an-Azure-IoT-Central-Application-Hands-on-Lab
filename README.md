@@ -78,23 +78,23 @@ We will be using a Raspberry Pi simulator with our IoT Central application. The 
 
     ![Simulated Raspberry Pi Screen](images/SimulatedPiScreen.PNG)
 
-1. Click **Next**, **Next**, **Got it**.
+2. Click **Next**, **Next**, **Got it**.
 
-2. Update the **Connection String** in the simulator
+3. Update the **Connection String** in the simulator
 
     ![connection string](images/raspberry-pi-connection-string.png)
 
-3. Delete the text that reads **[Your IoT hub device connection string]**. Be careful not to delete the single speech marks and the trailing semicolon.
+4. Delete the text that reads **[Your IoT hub device connection string]**. Be careful not to delete the single speech marks and the trailing semicolon.
 
-4. Paste in the **Connection String** you generated.
+5. Paste in the **Connection String** you generated.
 
    ![connection string](images/raspberr-pi-connection-string-completed.png)
 
-5. Next, run the simulator by clicking on the **Run** button. The simulator will start to send telemetry to the Azure IoT Central Application you created.
+6. Next, run the simulator by clicking on the **Run** button. The simulator will start to send telemetry to the Azure IoT Central Application you created.
 
     ![run raspberry pi simulator](images/raspberry-pi-run-simulator.png)
 
-6. Switch back to the IoT Central Application tab in your browser and start exploring the charting options.
+7. Switch back to the IoT Central Application tab in your browser and start exploring the charting options.
 
     Click the **Device Explorer** icon, then select the device you create. Try out various chart options and tune the telemetry values.
 
