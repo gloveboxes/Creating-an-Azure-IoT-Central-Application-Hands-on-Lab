@@ -1,4 +1,4 @@
-# Creating ab Azure IoT Central Application Hands on Lab
+# Creating an Azure IoT Central Application Hands on Lab
 
 |Author|[Dave Glover](https://developer.microsoft.com/en-us/advocates/dave-glover), Microsoft Cloud Developer Advocate |
 |----|---|
@@ -16,7 +16,7 @@ Watch this 5-minute [screencast](https://youtu.be/D26rJmHyZcA) on how to create 
 
 To summarize the screencast:
 
-1. Create an Azure IoT Central application from [https://azure.microsoft.com/en-au/services/iot-central](https://azure.microsoft.com/en-au/services/iot-central). Then click **Get Started**
+1. Create an Azure IoT Central application. Hold down the **control key** and click [https://azure.microsoft.com/en-au/services/iot-central](https://azure.microsoft.com/en-au/services/iot-central). Then click **Get Started**
 
     ![IoT Central Main Page](images/IoTCentral_mainPage.PNG)
 
