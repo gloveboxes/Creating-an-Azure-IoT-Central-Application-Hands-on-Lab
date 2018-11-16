@@ -76,7 +76,7 @@ We will be using a Raspberry Pi simulator with our IoT Central application. The 
 
 1. Hold the **control key** down and click [Start Raspberry Pi Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#Getstarted) to open in a new browser tab.
 
-![Simulated Raspberry Pi Screen](images/SimulatedPiScreen.PNG)
+    ![Simulated Raspberry Pi Screen](images/SimulatedPiScreen.PNG)
 
 1. Click **Next**, **Next**, **Got it**.
 
