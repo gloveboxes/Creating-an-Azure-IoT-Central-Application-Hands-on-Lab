@@ -1,4 +1,4 @@
-# Creating an Azure IoT Central Application Hands on Lab
+# Creating an Azure IoT Central Application Hands-on Lab
 
 |Author|[Dave Glover](https://developer.microsoft.com/en-us/advocates/dave-glover), Microsoft Cloud Developer Advocate |
 |----|---|
