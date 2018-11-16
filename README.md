@@ -90,7 +90,7 @@ We will be using a Raspberry Pi simulator with our IoT Central application. The 
 
    ![connection string](images/raspberr-pi-connection-string-completed.png)
 
-5. Next run the simulator by clicking on the **Run** button. The simulator will start to send telemetry to the Azure IoT Central Application you created.
+5. Next, run the simulator by clicking on the **Run** button. The simulator will start to send telemetry to the Azure IoT Central Application you created.
 
     ![run raspberry pi simulator](images/raspberry-pi-run-simulator.png)
 
@@ -108,7 +108,7 @@ But what to do now? Check out the [IoT Central documentation](https://docs.micro
 
 Or have a look at some of these great tutorials:
 
-- [Create IoT Central Application](https://docs.microsoft.com/en-au/azure/iot-central/howto-create-application/?WT.mc_id=article-github-dglover)
-- [Administer You Application](https://docs.microsoft.com/en-au/azure/iot-central/howto-administer/?WT.mc_id=article-github-dglover)
-- [Set up Device Template](https://docs.microsoft.com/en-au/azure/iot-central/howto-set-up-template/?WT.mc_id=article-github-dglover)
-- [Create New device Template Version](https://docs.microsoft.com/en-au/azure/iot-central/howto-version-devicetemplate/?WT.mc_id=article-github-dglover)
+- [Create an Azure IoT Central application](https://docs.microsoft.com/en-au/azure/iot-central/howto-create-application/?WT.mc_id=article-github-dglover)
+- [Administer your IoT Central application](https://docs.microsoft.com/en-au/azure/iot-central/howto-administer/?WT.mc_id=article-github-dglover)
+- [Set up a device template](https://docs.microsoft.com/en-au/azure/iot-central/howto-set-up-template/?WT.mc_id=article-github-dglover)
+- [Create a new device template version](https://docs.microsoft.com/en-au/azure/iot-central/howto-version-devicetemplate/?WT.mc_id=article-github-dglover)
