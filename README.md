@@ -2,7 +2,7 @@
 
 |Author|[Dave Glover](https://developer.microsoft.com/en-us/advocates/dave-glover), Microsoft Cloud Developer Advocate |
 |----|---|
-|Documentation|[README](https://github.com/gloveboxes/Connecting-Particle-Photon-to-Azure-IoT-Hub/blob/master/README.md)|
+|Documentation|[README](https://github.com/gloveboxes/Creating-an-Azure-IoT-Central-Application-Hands-on-Lab/blob/master/README.md)|
 |Platform|[Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/?WT.mc_id=article-github-dglover), [Raspberry Pi Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)|
 |Video Training|[What is Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/overview-iot-central/?WT.mc_id=article-github-dglover)|
 |Screencasts|[How to create the Azure IoT Central Application](https://youtu.be/D26rJmHyZcA)|
