@@ -1,10 +1,10 @@
 # Creating an Azure IoT Central Application Hands-on Lab
 
-|Author|[Dave Glover](https://developer.microsoft.com/en-us/advocates/dave-glover), Microsoft Cloud Developer Advocate |
+|Author|[Dave Glover](https://developer.microsoft.com/advocates/dave-glover?WT.mc_id=iot-0000-dglover), Microsoft Cloud Developer Advocate |
 |----|---|
 |Documentation|[README](https://github.com/gloveboxes/Creating-an-Azure-IoT-Central-Application-Hands-on-Lab/blob/master/README.md)|
-|Platform|[Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/?WT.mc_id=article-github-dglover), [Raspberry Pi Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)|
-|Video Training|[What is Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/overview-iot-central/?WT.mc_id=article-github-dglover)|
+|Platform|[Azure IoT Central](https://docs.microsoft.com/azure/iot-central/?WT.mc_id=iot-0000-dglover), [Raspberry Pi Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)|
+|Video Training|[What is Azure IoT Central](https://docs.microsoft.com/azure/iot-central/overview-iot-central/?WT.mc_id=iot-0000-dglover)|
 |Screencasts|[How to create the Azure IoT Central Application](https://youtu.be/D26rJmHyZcA)|
 |Date|As at Nov 2018|
 
@@ -16,7 +16,7 @@ Watch this 5-minute [screencast](https://youtu.be/D26rJmHyZcA) on how to create 
 
 To summarize the screencast:
 
-1. Create an Azure IoT Central application. Hold down the **control key** and click [https://azure.microsoft.com/en-au/services/iot-central](https://azure.microsoft.com/en-au/services/iot-central). Then click **Get Started**
+1. Create an Azure IoT Central application. Hold down the **control key** and click [https://azure.microsoft.com/services/iot-central?WT.mc_id=iot-0000-dglover](https://azure.microsoft.com/services/iot-central?WT.mc_id=iot-0000-dglover). Then click **Get Started**
 
     ![IoT Central Main Page](images/IoTCentral_mainPage.PNG)
 
@@ -104,11 +104,11 @@ We will be using a Raspberry Pi simulator with our IoT Central application. The 
 
 Congratulations! You've successfully connected a device into your own Azure IoT Central Application. Nice. However, we've only just begun exploring the capability of this powerful software.
 
-But what to do now? Check out the [IoT Central documentation](https://docs.microsoft.com/en-us/azure/iot-central/overview-iot-central/?WT.mc_id=article-github-dglover) to dive deeper into all of the rich features of IoT Central.
+But what to do now? Check out the [IoT Central documentation](https://docs.microsoft.com/azure/iot-central/overview-iot-central/?WT.mc_id=iot-0000-dglover) to dive deeper into all of the rich features of IoT Central.
 
 Or have a look at some of these great tutorials:
 
-- [Create an Azure IoT Central application](https://docs.microsoft.com/en-au/azure/iot-central/howto-create-application/?WT.mc_id=article-github-dglover)
-- [Administer your IoT Central application](https://docs.microsoft.com/en-au/azure/iot-central/howto-administer/?WT.mc_id=article-github-dglover)
-- [Set up a device template](https://docs.microsoft.com/en-au/azure/iot-central/howto-set-up-template/?WT.mc_id=article-github-dglover)
-- [Create a new device template version](https://docs.microsoft.com/en-au/azure/iot-central/howto-version-devicetemplate/?WT.mc_id=article-github-dglover)
+- [Create an Azure IoT Central application](https://docs.microsoft.com/azure/iot-central/howto-create-application/?WT.mc_id=iot-0000-dglover)
+- [Administer your IoT Central application](https://docs.microsoft.com/azure/iot-central/howto-administer/?WT.mc_id=iot-0000-dglover)
+- [Set up a device template](https://docs.microsoft.com/azure/iot-central/howto-set-up-template/?WT.mc_id=iot-0000-dglover)
+- [Create a new device template version](https://docs.microsoft.com/azure/iot-central/howto-version-devicetemplate/?WT.mc_id=iot-0000-dglover)
